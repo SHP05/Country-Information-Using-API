@@ -1,0 +1,9 @@
+@include media-breakpoint-down(lg) {
+    .card{
+        width:100%;
+    }
+  }
+
+  .card{
+    color:black;
+  }
